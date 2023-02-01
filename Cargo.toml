@@ -1,5 +1,5 @@
 [package]
-name = "rust_ps_set"
+name = "rust-ps-repo"
 version = "0.1.0"
 edition = "2021"
 

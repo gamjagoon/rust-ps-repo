@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust_ps_set"
+name = "rust-ps-repo"
 version = "0.1.0"
